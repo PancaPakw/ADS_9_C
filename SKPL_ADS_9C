@@ -5,7 +5,7 @@ SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK
 Anggota:
 <Niko Safir Abraham          , 150535600225>
 <Panca Aditya Kusuma Wardani , 150535602368>
-<Tyas Ismi Zahrani           , 150535>
+<Tyas Ismi Zahrani           , 150535601853>
 
 sebagai kelengkapan Tugas Akhir prodi S1 Teknik Informatika
 Mata Kuliah Analisis dan Desain Sistem
@@ -21,6 +21,16 @@ Abstrak:
 
 
 <3. Kebutuhan Antarmuka Eksternal>
+    Sistem Informasi Mountain membutuhkan fasilitas-fasilitas antaramuka eksternal sebagai berikut :
+<3.1. Antarmuka Pemakai
+<3.2. Antarmuka Perangkat Keras 
+<3.3. Antarmuka Perangkat Lunak
+<3.4. Antarmuka Komunikasi
+      Antarmuka Komunikasi yang digunakan untuk mengoperasikan sistem informasi antara lain :
+      1. Kabel LAN UTP RJ-45
+      2. ASDL Modem
+      
+
 
 
 <4. Ferature Sistem>
