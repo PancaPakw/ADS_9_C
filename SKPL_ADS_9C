@@ -31,21 +31,43 @@ Abstrak:
       5. Tampilan Informasi Jalur Pendakian Gunung
       6. Tampilan Informasi Persiapan
       7. Tampilan Booking Tourguide
-      
+    
         Alat-alat yang mendukung antarmuka pemakai adalah sebagai berikut:
       1. Keyboard
       2. Mouse
       3. Monitor
 <3.2. Antarmuka Perangkat Keras
         Antarmuka perangkat keras yang digunakan untuk mengoperasikan sistem informasi antara lain :
+      1. NIC
+      2. Kabel LAN
+      3. Modem
+       
 <3.3. Antarmuka Perangkat Lunak
         Antarmuka perangkat lunak yang digunakan untuk mengoperasikan sistem informasi antara lain :
+       1.
+       2.
+       3.
 <3.4. Antarmuka Komunikasi
         Antarmuka komunikasi yang digunakan untuk mengoperasikan sistem informasi antara lain :
       1. Kabel LAN UTP RJ-45
-      2. ASDL Modem
+      2. Modem
 
 <4. Ferature Sistem>
+      1. MNTN01 
+          Kebutuhan :
+          Penjelasan:
+      2. MNTN02 
+          Kebutuhan :
+          Penjelasan:
+      3. MNTN03 
+          Kebutuhan :
+          Penjelasan:
+      4. MNTN04 
+          Kebutuhan :
+          Penjelasan:
+      5. MNTN05 
+          Kebutuhan :
+          Penjelasan:
 
 
 <5. Kebutuhan NoFungsional Lainnya>
