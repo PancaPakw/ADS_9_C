@@ -54,19 +54,44 @@ Abstrak:
 
 <4. Ferature Sistem>
       1. MNTN01 
-          Kebutuhan :
-          Penjelasan:
+          Kebutuhan : Sistem informasi dapat menampilkan daftar gunung
+          Penjelasan: Pengguna dapat melihat list gunung yang terdaftar didalam sistem.
+                      Dimana pengguna dapat melihat informasi dari gunung yang dipilih tersebut.
       2. MNTN02 
-          Kebutuhan :
-          Penjelasan:
+          Kebutuhan : Sistem Informasi dapat menyediakan mode pencarian terhadap gunung 
+          Penjelasan: Untuk mencari informasi gunung, penguna dapat menggunakan mode pencarian  yang terdapat didalam sistem 
+                      dengan menginputkan nama gunung
       3. MNTN03 
-          Kebutuhan :
-          Penjelasan:
+          Kebutuhan : Sistem Informasi dapat menampilkan Informasi gunung yang dipilih pengguna
+          Penjelasan: Informasi Gunung berupa status, ketinggian, kuota pendakian, dan informasi lengkap seputar gunung tersebut .
       4. MNTN04 
-          Kebutuhan :
+          Kebutuhan : Sistem Informasi dapat memperbaruhi informasi gunung 
+          Penjelasan: Ketika terdapat pengguna yang telah melenkapi persyaratan registrasi,
+                      maka sistem akan memperbarui kuota serta status dari gunung tersebut apabila terdapat perubahan, dll.
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapat menampilkan form resgistrasi pendakian 
+          Penjelasan:  
+          
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapat menampilkan form resgistrasi pendakian 
           Penjelasan:
       5. MNTN05 
-          Kebutuhan :
+          Kebutuhan : Sistem Informasi dapat menampilkan form  anggota pendakian
+          Penjelasan:
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapat menerima masukan file riwayat kesehatan pendaki  
+          Penjelasan:
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapat menampilkan pesan berupa total biaya pendaftarn 
+          Penjelasan:
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapat menrima masukan file bukti pembayaran 
+          Penjelasan:
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapa menampilkan pesan validasi data 
+          Penjelasan:
+      5. MNTN05 
+          Kebutuhan : Sistem Informasi dapat menyimpan data calon pendakil
           Penjelasan:
 
 
