@@ -70,31 +70,47 @@ Abstrak:
                       maka sistem akan memperbarui kuota serta status dari gunung tersebut apabila terdapat perubahan, dll.
       5. MNTN05 
           Kebutuhan : Sistem Informasi dapat menampilkan form resgistrasi pendakian 
-          Penjelasan:  
-          
-      5. MNTN05 
-          Kebutuhan : Sistem Informasi dapat menampilkan form resgistrasi pendakian 
-          Penjelasan:
-      5. MNTN05 
+          Penjelasan: Form registrasi ditampilkan ketika penguna ingin melakukan pendaftaran untuk mendaki gunung.
+	                  
+      6. MNTN06 
           Kebutuhan : Sistem Informasi dapat menampilkan form  anggota pendakian
-          Penjelasan:
+          Penjelasan: Setelah melengkapi data-data yang ada di form reistrasi maka,
+                      sistem akan menampilkamn Form  anggota pendakian yang wajib diisi ketika jumlah calon pendaki lebih dari satu.
       5. MNTN05 
-          Kebutuhan : Sistem Informasi dapat menerima masukan file riwayat kesehatan pendaki  
+          Kebutuhan : Sistem Informasi dapat menerima masukan file riwayat kesehatan pendaki.  
+          Penjelasan: Pengguna wajib mengupload file berupa riwayat kesehatan calon-calon pendakin yang akan di terima oleh sistem.
+      6. MNTN06 
+          Kebutuhan : Sistem Informasi dapat menampilkan pesan berupa total biaya pendaftaran. 
+          Penjelasan: Setelah selesai melenkapi data registrasi sistem akan total biaya pendaftaran yang harus di bayar oleh pengguna,
+                      dan sistem menampilkan informasi tersebut. 
+      7. MNTN07 
+          Kebutuhan : Sistem Informasi dapat menrima masukan file bukti pembayaran. 
+          Penjelasan: Pengguna wajib menguload bukti pembayaran yang akan di terimaoleh sistem untuk di validasi.
+      8. MNTN08 
+          Kebutuhan : Sistem Informasi dapa menampilkan pesan validasi data. 
+          Penjelasan: Ketika semua persyaratan telah dilengkapi oleh pengguna maka sistem akan menampilkan pesan .....
+      9. MNTN09 
+          Kebutuhan : Sistem Informasi dapat menyimpan data calon pendaki.
+          Penjelasan: 
+     10. MNTN010 
+          Kebutuhan : Sistem Informasi dapat menyediakan informasi jalur pendakian gunung.
           Penjelasan:
-      5. MNTN05 
-          Kebutuhan : Sistem Informasi dapat menampilkan pesan berupa total biaya pendaftarn 
+     11. MNTN011 
+          Kebutuhan : Sistem  Informasi dapat menyediakan mode pencarian terhadapt jalur gunung
           Penjelasan:
-      5. MNTN05 
-          Kebutuhan : Sistem Informasi dapat menrima masukan file bukti pembayaran 
+     12. MNTN012 
+          Kebutuhan : Sistem informasi dapat menampilkan form berupa jumlah pendaki dan lama pendakian. 
           Penjelasan:
-      5. MNTN05 
-          Kebutuhan : Sistem Informasi dapa menampilkan pesan validasi data 
+     13. MNTN013 
+          Kebutuhan : Sistem Informasi dapat menampilkan informasi perbekalan sesuai inputan pengguna
           Penjelasan:
-      5. MNTN05 
-          Kebutuhan : Sistem Informasi dapat menyimpan data calon pendakil
+     14. MNTN014 
+          Kebutuhan : Sistem informasi dapat menyediakan form booking tourguide
           Penjelasan:
-
-
+     15. MNTN015 
+          Kebutuhan : Sistem Informasi dapat menampilkan list tourguide  sesuai inputan 
+          Penjelasan:
+     
 <5. Kebutuhan NoFungsional Lainnya>
 <5.1. Kebutuhan Kinerja>
 <5.2. Kebutuhan Keamanan>
