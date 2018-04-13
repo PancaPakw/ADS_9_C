@@ -112,11 +112,25 @@ Abstrak:
           Penjelasan:
      
 <5. Kebutuhan NoFungsional Lainnya>
-<5.1. Kebutuhan Kinerja>
-<5.2. Kebutuhan Keamanan>
-<5.3. Kebutuhan Perlindungan Keamanan>
-<5.4. Atribut Kualitas Perangkat Lunak>
-<5.5. Aturan Penggunaan>
-
+      1. MNTN01 
+          Parameter : Operational
+          Kebutuhan : 1. Sistem informasi membutuhkan sistem snformasi windows NT
+	  	      2. Spesifikasi komputer minimal pentium ...
+		      3. Kebutuhan RAM ...
+		      4. Kebutuhan Harddisk ....
+		      5. Sistem dapat dijalankan oleh beberapa software  web browser diantaranya Internet Explore, Google Chrome dan Mozilla Firefox.
+      2. MNTN02 
+          Parameter : Keamanan
+          Kebutuhan : 1. Sitem datasbase di lengkapi dengan password
+	  	      2.
+		      3.
+      3. MNTN01 
+          Parameter : Performance
+          Kebutuhan : 1.Proses penghitungan total biaya sampai sistem dapat menapilkan pesan biaya tidak lebih dari 10 detik
+	  	      2.
+		      3.
+      2. MNTN02 
+          Parameter : Keamanan
+          Kebutuhan : 
 
 <6. Kebutuhan Lain>
