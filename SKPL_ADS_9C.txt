@@ -20,15 +20,31 @@ dan akan meningkatkan jumlah kunjungan wisatawan ke setiap gunung tersebut.
 
 <1. Pendahuluan>
 <1.1 Latar Belakang>
+Semakin banyaknya beban pekerjaan setiap orang dan kesibukan kota yang terus meningkat setiap tahunnya, mengakibatkan
+kebutuhan akan liburan untuk melepas penat setelah sekian pekan sibuk dengan rutinitas, menjadikan liburan merupakan salah satu
+hal yang penting dalam kehidupan manusia. salah satu alternatif liburan adalah mendaki gunung, mendaki gunung bukan hanya sekedar berwisata, namun ada yang menjadikannya sebagai hobi. semakin banyaknya orang yang hobi mendaki semakin meningkatnya jumlah pendaki
+yang mengunjungi gunung. ketika pendaki akan naik ke gunung perlu pendaftaran, di indonesia sistem pendaftaran masih menggunakan cara
+manual dan banyak berkas yang harus disiapkan. hal ini membuat proses pendaftarannya kurang efisien, maka perlu dibuat sistem informasi
+pendaki gunung di indonesia. dengan sistem ini diharapkan proses pendaftarannya akan lebih mudah dan efisien karena tidak perlu lagi mendaftar langsung ke loket, dan untuk pengelola akan lebih mudah mengontrol jumlah pengunjung tiap hari karena bisa diterapkan sistem kuota dan booking online.
 
 <1.2 Tujuan>
+1. Mempermudah proses pendaftaran ketika akan mendaki gunung
+2. Menjadikan sarana untuk booking online
+3. Sebagai sarana penyampaian informasi seputar gunung
+
 <1.3 Ruang Lingkup Perangkat Lunak>
+Perangkat lunak sistem informasi pendaftaran gunung indonesia menggunakan web yang responsif dan dinamis, yang dapat diakses
+melalui desktop maupun handphone.
 
 <1.4 Target Audience>
-
+ 1. Pengelola Wisata
+    Pengelola wisata gunung akan lebih mudah dalam proses adminitrasi dan sistem booking online.
+ 2. Wisatawan
+    Wisatawan akan lebih mudah memperoleh informasi seputar gunung di indonesia, akan dipermudah dalam proses pendaftaran pendakian.
+    
 <1.5 Definis, Istilah, Singkatan>
 
-<1.6 Referesni>
+<1.6 Referensi>
 
 <2. Deskripsi Umum>
 <2.1. Tentang Perangkat Lunak
@@ -150,4 +166,4 @@ dan akan meningkatkan jumlah kunjungan wisatawan ke setiap gunung tersebut.
 <6. Kebutuhan Lain>
       1. Tampilan web dibuat dengan menggunakan photoshop, coreldraw.
       2. Text editor yang digunakan adalah sublime
-      3. Bahasa pemrograman yang digunakan adalah .
+      3. Bahasa pemrograman yang digunakan adalah HTML,PHP, JAVA Script.
