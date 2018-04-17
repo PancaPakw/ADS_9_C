@@ -44,9 +44,7 @@ Abstrak:
        
 <3.3. Antarmuka Perangkat Lunak
         Antarmuka perangkat lunak yang digunakan untuk mengoperasikan sistem informasi antara lain :
-       1.
-       2.
-       3.
+       1. API E-Banking
 <3.4. Antarmuka Komunikasi
         Antarmuka komunikasi yang digunakan untuk mengoperasikan sistem informasi antara lain :
       1. Kabel LAN UTP RJ-45
@@ -75,29 +73,33 @@ Abstrak:
       6. KF06
           Kebutuhan : Sistem Informasi dapat menampilkan form  anggota pendakian
           Penjelasan: Setelah melengkapi data-data yang ada di form reistrasi maka,
-                      sistem akan menampilkamn Form  anggota pendakian yang wajib diisi ketika jumlah calon pendaki lebih dari satu.
+                      sistem akan menampilkamn Form  anggota pendakian yang wajib diisi ketika jumlah calon pendaki lebih dari 
+		      satu.
       7. KF07
           Kebutuhan : Sistem Informasi dapat menerima masukan file riwayat kesehatan pendaki.  
-          Penjelasan: Pengguna wajib mengupload file berupa riwayat kesehatan calon-calon pendakin yang akan di terima oleh sistem.
+          Penjelasan: Pengguna wajib mengupload file berupa riwayat kesehatan calon-calon pendakin yang akan di terima oleh 
+	              sistem.
       8. KF08
           Kebutuhan : Sistem Informasi dapat menampilkan pesan berupa total biaya pendaftaran. 
-          Penjelasan: Setelah selesai melenkapi data registrasi sistem akan total biaya pendaftaran yang harus di bayar oleh pengguna,
-                      dan sistem menampilkan informasi tersebut. 
+          Penjelasan: Setelah selesai melenkapi data registrasi sistem akan total biaya pendaftaran yang harus di bayar oleh 
+	              pengguna,dan sistem menampilkan informasi tersebut. 
       9. KF09
           Kebutuhan : Sistem Informasi dapat menrima masukan file bukti pembayaran. 
           Penjelasan: Pengguna wajib menguload bukti pembayaran yang akan di terimaoleh sistem untuk di validasi.
      10. KF010 
           Kebutuhan : Sistem Informasi dapa menampilkan pesan validasi data. 
-          Penjelasan: Ketika semua persyaratan telah dilengkapi oleh pengguna maka sistem akan menampilkan pesan .....
+          Penjelasan: Ketika semua persyaratan telah dilengkapi oleh pengguna maka sistem akan menampilkan pesan bahwa 	  
+	              registrasi telah berhasil dilakukan.
      11. KF011
           Kebutuhan : Sistem Informasi dapat menyimpan data calon pendaki.
-          Penjelasan: 
+          Penjelasan: Data registrasi pengguna dapat disimpan secara aman oleh sistem  dan jumlah calon pendaki yang terdaftar 	   
+	              akan disimpan untuk diperbaruhi pada informasi kuota.
      12. KF012
           Kebutuhan : Sistem Informasi dapat menyediakan informasi jalur pendakian gunung.
-          Penjelasan:
+          Penjelasan: Pengguna dapat melihat informasi seputar jalur pendakian dari gunung .
      13. KF013
           Kebutuhan : Sistem  Informasi dapat menyediakan mode pencarian terhadapt jalur gunung
-          Penjelasan:
+          Penjelasan: Untuk melihat informasi salah satu jalur pendakian,pengguna dapat mencarinya dengan metode pencarian 	  			dengan menginputkan nama gunung.
      14. KF014
           Kebutuhan : Sistem informasi dapat menampilkan form berupa jumlah pendaki dan lama pendakian. 
           Penjelasan:
@@ -115,9 +117,9 @@ Abstrak:
       1. KNF01
           Parameter : Operational
           Kebutuhan : 1. Sistem informasi membutuhkan sistem operasi windows 
-	  	      2. Spesifikasi komputer minimal pentium 
+	  	      2. Spesifikasi komputer minimal pentium 4 2 GHz
 		      3. Kebutuhan RAM 2GB
-		      4. Kebutuhan Harddisk 
+		      4. Kebutuhan Harddisk 500GB
 		      5. Sistem dapat dijalankan oleh beberapa software  web browser diantaranya Internet Explore, Google Chrome dan Mozilla Firefox.
       2. KNF02 
           Parameter : Keamanan
