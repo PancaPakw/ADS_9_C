@@ -12,10 +12,23 @@ Mata Kuliah Analisis dan Desain Sistem
 
 
 Abstrak:
+Indonesia memiliki banyak wisata gunung, namun dalam proses pendaftaran dan perizinan cukup sulit
+untuk mengurusnya. kami membuat sistem informasi pendaftaran pendakian gunung di indonesia ini agar memudahkan
+para pendaki yang ingin mendaki gunung. diharapak dengan adanya sistem informasi ini akan memudahkan proses pendaftaran
+dan akan meningkatkan jumlah kunjungan wisatawan ke setiap gunung tersebut.
 
 
 <1. Pendahuluan>
+<1.1 Latar Belakang>
 
+<1.2 Tujuan>
+<1.3 Ruang Lingkup Perangkat Lunak>
+
+<1.4 Target Audience>
+
+<1.5 Definis, Istilah, Singkatan>
+
+<1.6 Referesni>
 
 <2. Deskripsi Umum>
 <2.1. Tentang Perangkat Lunak
