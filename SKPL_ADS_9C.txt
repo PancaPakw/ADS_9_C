@@ -53,84 +53,78 @@ Abstrak:
       2. Modem
 
 <4. Ferature Sistem>
-      1. MNTN01 
+      1. KF01
           Kebutuhan : Sistem informasi dapat menampilkan daftar gunung
           Penjelasan: Pengguna dapat melihat list gunung yang terdaftar didalam sistem.
                       Dimana pengguna dapat melihat informasi dari gunung yang dipilih tersebut.
-      2. MNTN02 
+      2. KF02 
           Kebutuhan : Sistem Informasi dapat menyediakan mode pencarian terhadap gunung 
           Penjelasan: Untuk mencari informasi gunung, penguna dapat menggunakan mode pencarian  yang terdapat didalam sistem 
                       dengan menginputkan nama gunung
-      3. MNTN03 
+      3. KF03
           Kebutuhan : Sistem Informasi dapat menampilkan Informasi gunung yang dipilih pengguna
           Penjelasan: Informasi Gunung berupa status, ketinggian, kuota pendakian, dan informasi lengkap seputar gunung tersebut .
-      4. MNTN04 
+      4. KF04 
           Kebutuhan : Sistem Informasi dapat memperbaruhi informasi gunung 
           Penjelasan: Ketika terdapat pengguna yang telah melenkapi persyaratan registrasi,
                       maka sistem akan memperbarui kuota serta status dari gunung tersebut apabila terdapat perubahan, dll.
-      5. MNTN05 
+      5. KF05 
           Kebutuhan : Sistem Informasi dapat menampilkan form resgistrasi pendakian 
           Penjelasan: Form registrasi ditampilkan ketika penguna ingin melakukan pendaftaran untuk mendaki gunung.
 	                  
-      6. MNTN06 
+      6. KF06
           Kebutuhan : Sistem Informasi dapat menampilkan form  anggota pendakian
           Penjelasan: Setelah melengkapi data-data yang ada di form reistrasi maka,
                       sistem akan menampilkamn Form  anggota pendakian yang wajib diisi ketika jumlah calon pendaki lebih dari satu.
-      5. MNTN05 
+      7. KF07
           Kebutuhan : Sistem Informasi dapat menerima masukan file riwayat kesehatan pendaki.  
           Penjelasan: Pengguna wajib mengupload file berupa riwayat kesehatan calon-calon pendakin yang akan di terima oleh sistem.
-      6. MNTN06 
+      8. KF08
           Kebutuhan : Sistem Informasi dapat menampilkan pesan berupa total biaya pendaftaran. 
           Penjelasan: Setelah selesai melenkapi data registrasi sistem akan total biaya pendaftaran yang harus di bayar oleh pengguna,
                       dan sistem menampilkan informasi tersebut. 
-      7. MNTN07 
+      9. KF09
           Kebutuhan : Sistem Informasi dapat menrima masukan file bukti pembayaran. 
           Penjelasan: Pengguna wajib menguload bukti pembayaran yang akan di terimaoleh sistem untuk di validasi.
-      8. MNTN08 
+     10. KF010 
           Kebutuhan : Sistem Informasi dapa menampilkan pesan validasi data. 
           Penjelasan: Ketika semua persyaratan telah dilengkapi oleh pengguna maka sistem akan menampilkan pesan .....
-      9. MNTN09 
+     11. KF011
           Kebutuhan : Sistem Informasi dapat menyimpan data calon pendaki.
           Penjelasan: 
-     10. MNTN010 
+     12. KF012
           Kebutuhan : Sistem Informasi dapat menyediakan informasi jalur pendakian gunung.
           Penjelasan:
-     11. MNTN011 
+     13. KF013
           Kebutuhan : Sistem  Informasi dapat menyediakan mode pencarian terhadapt jalur gunung
           Penjelasan:
-     12. MNTN012 
+     14. KF014
           Kebutuhan : Sistem informasi dapat menampilkan form berupa jumlah pendaki dan lama pendakian. 
           Penjelasan:
-     13. MNTN013 
+     15. KF015 
           Kebutuhan : Sistem Informasi dapat menampilkan informasi perbekalan sesuai inputan pengguna
           Penjelasan:
-     14. MNTN014 
+     16. KF016
           Kebutuhan : Sistem informasi dapat menyediakan form booking tourguide
           Penjelasan:
-     15. MNTN015 
+     17. KF017
           Kebutuhan : Sistem Informasi dapat menampilkan list tourguide  sesuai inputan 
           Penjelasan:
      
 <5. Kebutuhan NoFungsional Lainnya>
-      1. MNTN01 
+      1. KNF01
           Parameter : Operational
-          Kebutuhan : 1. Sistem informasi membutuhkan sistem snformasi windows NT
-	  	      2. Spesifikasi komputer minimal pentium ...
-		      3. Kebutuhan RAM ...
-		      4. Kebutuhan Harddisk ....
+          Kebutuhan : 1. Sistem informasi membutuhkan sistem operasi windows 
+	  	      2. Spesifikasi komputer minimal pentium 
+		      3. Kebutuhan RAM 2GB
+		      4. Kebutuhan Harddisk 
 		      5. Sistem dapat dijalankan oleh beberapa software  web browser diantaranya Internet Explore, Google Chrome dan Mozilla Firefox.
-      2. MNTN02 
+      2. KNF02 
           Parameter : Keamanan
           Kebutuhan : 1. Sitem datasbase di lengkapi dengan password
-	  	      2.
-		      3.
-      3. MNTN01 
+	  	      
+      3. KNF03 
           Parameter : Performance
           Kebutuhan : 1.Proses penghitungan total biaya sampai sistem dapat menapilkan pesan biaya tidak lebih dari 10 detik
-	  	      2.
-		      3.
-      2. MNTN02 
-          Parameter : Keamanan
-          Kebutuhan : 
 
 <6. Kebutuhan Lain>
