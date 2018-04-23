@@ -52,8 +52,9 @@ melalui desktop maupun handphone.
        gunung dan berisikan segala informasi mengenai gunung seperti ketinggian, lokasi gunung, jalur pendakian, status gunung, 
        dll. Sehingga calon pendaki dapat melakukan proses pendaftaran lebih cepat, kapapun dan dimanapun. Sistem informasi ini dapat dijalankan dengan menggunakan perangkat dan platform apapun yang terhubung pada internet
 <2.2  Fungsi-fungsi Perangkat Lunak
+	Perangkat lunak ini dapat
 <2.3  Karakteristik dan Klasifikasi Pengguna
-
+	Pengguna adalah para wisatawan, pecinta alam, orang yang mempunyai hobi mendaki gunung
 <3. Kebutuhan Antarmuka Eksternal>
     Sistem informasi pendakian gunung "Mountain" membutuhkan fasilitas-fasilitas antaramuka eksternal sebagai berikut :
 <3.1. Antarmuka Pemakai
@@ -83,6 +84,7 @@ melalui desktop maupun handphone.
         Antarmuka komunikasi yang digunakan untuk mengoperasikan sistem informasi antara lain :
       1. Kabel LAN UTP RJ-45
       2. Modem
+      3. wifi
 
 <4. Ferature Sistem>
       1. KF01
