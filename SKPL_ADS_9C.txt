@@ -138,7 +138,8 @@ melalui desktop maupun handphone.
           Penjelasan: Untuk melihat informasi salah satu jalur pendakian,pengguna dapat mencarinya dengan metode pencarian 	  			dengan menginputkan nama gunung.
      14. KF014
           Kebutuhan : Sistem informasi dapat menampilkan form berupa jumlah pendaki dan lama pendakian. 
-          Penjelasan:
+          Penjelasan: Pengguna dapat menginputkan jumlah calon pendaki dan lama waktu pendakian pada form yang disediakan untuk 
+	  	      mengetahui perbekalan apa saja yang dapat dibawa nantinya.
      15. KF015 
           Kebutuhan : Sistem Informasi dapat menampilkan informasi perbekalan sesuai inputan pengguna
           Penjelasan:
