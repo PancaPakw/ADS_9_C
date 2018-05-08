@@ -142,13 +142,16 @@ melalui desktop maupun handphone.
 	  	      mengetahui perbekalan apa saja yang dapat dibawa nantinya.
      15. KF015 
           Kebutuhan : Sistem Informasi dapat menampilkan informasi perbekalan sesuai inputan pengguna
-          Penjelasan:
+          Penjelasan: Sistem akan menampilkan semua barang-barang yang dibawa sebagi perbekalan selama melakukan pendakian 	
+	  	      dimana jumlahnya akan muncul sesuai dengan inputan oleh pengguna. Sehingga dapat menjadi pertimbangan para
+		      pendaki untuk mempersiapkan barang bawaannya.
      16. KF016
           Kebutuhan : Sistem informasi dapat menyediakan form booking tourguide
-          Penjelasan:
+          Penjelasan: Pengguna dapat melakukan booking tourguide sebagai pemandu selama perjalanan ke gunung dengan mengisi form 
+	  	      dengan menginputkan nama gunung 
      17. KF017
           Kebutuhan : Sistem Informasi dapat menampilkan list tourguide  sesuai inputan 
-          Penjelasan:
+          Penjelasan: Sistem akan menampilkan kumpulan list tourguide yang dapat di booking oleh pengguna 
      
 <5. Kebutuhan NoFungsional Lainnya>
       1. KNF01
