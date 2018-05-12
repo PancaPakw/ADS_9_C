@@ -42,21 +42,26 @@ melalui desktop maupun handphone.
  2. Wisatawan
     Wisatawan akan lebih mudah memperoleh informasi seputar gunung di indonesia, akan dipermudah dalam proses pendaftaran pendakian.
     
-<1.5 Definis, Istilah, Singkatan>
+<1.5 Definisi, Istilah, Singkatan>
+	SKPL : Spesifikasi Kebutuhan Perangkat Lunak
 
 <1.6 Referensi>
-
+	https://booking.bromotenggersemeru.org/
+	
 <2. Deskripsi Umum>
 <2.1. Tentang Perangkat Lunak
 	Mountain adalah sebuah sistem informasi yang digunakan untuk memudahkan proses registrasi sebelum melakukan pendakian 
        gunung dan berisikan segala informasi mengenai gunung seperti ketinggian, lokasi gunung, jalur pendakian, status gunung, 
        dll. Sehingga calon pendaki dapat melakukan proses pendaftaran lebih cepat, kapapun dan dimanapun. Sistem informasi ini dapat dijalankan dengan menggunakan perangkat dan platform apapun yang terhubung pada internet
 <2.2  Fungsi-fungsi Perangkat Lunak
-	Perangkat lunak ini dapat
+	Perangkat lunak ini dapat menerima input dari pengguna yang akan mendaki gunung, dan bisa menjadi sarana pendaftaran dan booking 	onilne
 <2.3  Karakteristik dan Klasifikasi Pengguna
 	Pengguna adalah para wisatawan, pecinta alam, orang yang mempunyai hobi mendaki gunung
 <3. Kebutuhan Antarmuka Eksternal>
     Sistem informasi pendakian gunung "Mountain" membutuhkan fasilitas-fasilitas antaramuka eksternal sebagai berikut :
+    1. Foto Pendaftar
+    2. Foto Bukti Transfer
+    
 <3.1. Antarmuka Pemakai
        User Interface yang digunakan untuk mengoperasikan sistem informasi pendakian gunung "Mountain" antara lain :
       1. Tampilan Awal Web (Home)
