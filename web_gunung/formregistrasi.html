@@ -60,25 +60,40 @@
         </div>
     </nav>
 
-    <!-- contact -->
+    <!-- contact --> 
     <section id="contact">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Form Registrasi Pendakian Gunung</h2>
             <h3 class="section-subheading text-muted" style="color: #fff;">Silahkan Mengisi Semua Form untuk Registrasi Pendakian Gunung.</h3>
+                          <div class="col-md-12">
+                <form class="form-horizontal" action="?" method="post">
+                  <div class="form-group">
+                    <label for="nim" class="col-sm-2 control-label">NIM</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" id="nim" name="nim" placeholder="Isikan NIM">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="nama" class="col-sm-2 control-label">Nama</label>
+                    <div class="col-sm-10">
+                        <input type="text" class="form-control" name="nama" placeholder="Isikan Nama Lengkap">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="alamat" class="col-sm-2 control-label">Alamat</label>
+                    <div class="col-sm-10">
+                        <textarea name="alamat"class="form-control" placeholder="Isikan Alamat Lengkap"></textarea>
+                    </div>
+                  </div>
+                  <div class="col-sm-offset-2 col-sm-10">
+                      <button type="submit" class="btn btn-info">Simpan</button>
+                      <button type="reset" class="btn btn-info">Batal</button>
+                  </div>
+                </form>
           </div>
         </div>
-          <form>
-          <div class="col-lg-12">
-          <div class="form-horizontal">
-            <label class="control-label col-sm-2" style="color: #fff;" for="nama">Nama Anda:</label>
-            <div class="col-sm-10">
-                 <input type="text" class="form-control placeholder="Nama Anda *">
-                 <p class="help-block text-danger"></p>
-          </form><br/><br/>
-          
-         
       </div>
     </section>
 
